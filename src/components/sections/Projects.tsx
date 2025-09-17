@@ -34,8 +34,8 @@ const Projects = () => {
       description: "Modern, responsive portfolio website built with React and TypeScript. Features smooth animations, dark mode, and optimized performance.",
       image: project3,
       technologies: ["React", "TypeScript", "Tailwind CSS", "Vite"],
-      githubUrl: "/",
-      demoUrl: "/",
+      githubUrl: "https://github.com/shivansh-arch/Shivansh-portfolio-",
+      demoUrl: "https://portifolio-253z.onrender.com/",
       featured: false,
     },
     {
