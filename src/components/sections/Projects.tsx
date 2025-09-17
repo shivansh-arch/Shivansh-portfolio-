@@ -19,7 +19,7 @@ const Projects = () => {
     },
    
     {
-      id: 1,
+      id: 2,
       title: "Data Visualization Dashboard",
       description: "Interactive dashboard for analyzing and visualizing complex datasets with real-time updates. Features multiple chart types and filtering capabilities.",
       image: project2,
@@ -35,7 +35,7 @@ const Projects = () => {
       image: project3,
       technologies: ["React", "TypeScript", "Tailwind CSS", "Vite"],
       githubUrl: "https://github.com/shivansh-arch/Shivansh-portfolio-",
-      demoUrl: "https://portifolio-253z.onrender.com/",
+      demoUrl: "https://shivansh-portfolio-wsvc.onrender.com/",
       featured: false,
     },
     {
